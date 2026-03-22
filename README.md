@@ -10,17 +10,11 @@
 
 
 
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/somyaaawas" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:somyaawasthi496@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/somyaaawas">
-  <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/somyaawasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishqyadav" height="30" width="40" /></a>
+<a href="https://kaggle.com/somyaawasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somyaawasthi" height="30" width="40" /></a>
+<a href="https://twitter.com/somyaawasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somyaawasthi" height="30" width="40" /></a>
 </p>
 
 

@@ -4,7 +4,6 @@
 📍 Greater Noida, Uttar Pradesh, India
 💡 Data Science | Machine Learning | Data Analytics
 
-👋 Hi, I'm Somya Awasthi
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Data+Analytics+Explorer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=somyaaawas&label=Profile+Views&color=6A5ACD&style=flat" /> </p>
 💡 About Me
 
@@ -12,51 +11,66 @@ Data Science undergraduate skilled in Python, SQL, and data analysis.
 Experienced in data cleaning, exploratory data analysis (EDA), and visualization to extract insights from real-world datasets.
 Currently focused on machine learning and data structures through projects and coding practice.
 
-🛠️ Skills
-💻 Languages
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Data+Analytics+Explorer" />
+</p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=somyaaawas&label=Profile%20views&color=6A5ACD&style=flat" alt="somyaaawas" /> 
+</p>
 
+---
 
+### 🚀 About Me
+- 🎓 B.Tech CSE (AI) @ Galgotias University  
+- 💡 Passionate about **Data Science & Analytics**  
+- 📊 Skilled in **EDA, Data Visualization & Python-based analysis**  
+- 🌱 Currently learning **Machine Learning & DSA**  
+- 🎤 Experienced in **Public Speaking & Event Hosting**  
 
+---
 
-📊 Data & ML
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/somyaaawas" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:somyaawasthi496@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/somyaaawas">
+  <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
+---
 
+### 🛠️ Languages & Tools
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pandas,numpy,sklearn,mysql,git,github,streamlit,jupyter" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=somyaaawas&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaaawas&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaawas&theme=tokyonight" />
+</p>
 
+---
 
-
-
-⚙️ Tools & Platforms
-
-
-
-
-
-
-
-
-🎓 Education
-
-B.Tech in Computer Science & Engineering (AI)
-Galgotias University (2024–2028)
-CGPA: 8.6 / 10
-
-Class 12: 82% | Class 10: 88%
-
-📬 Connect With Me
-<p align="center"> <a href="mailto:somyaawasthi496@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/somyaaawas"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
-⚡ Fun Line
+### ⚡ Fun Code
+```python
 while True:
     learn()
-    build()
+    analyze()
     improve()
-🔥 Why this version is good:
-Clean + professional (no clutter)
-Subtle animations (typing + profile views)
-Recruiter-friendly (skills clearly visible)
-No unnecessary projects section (as you asked)

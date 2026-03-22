@@ -1,19 +1,5 @@
-🌸 Hi, I'm Somya Awasthi!
+###🌸 Hi, I'm Somya Awasthi!
 
-🎓 B.Tech CSE (AI) @ Galgotias University
-📍 Greater Noida, Uttar Pradesh, India
-💡 Data Science | Machine Learning | Data Analytics
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Data+Analytics+Explorer" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=somyaaawas&label=Profile%20views&color=6A5ACD&style=flat" alt="somyaaawas" /> 
-</p>
-
----
 
 ### 🚀 About Me
 - 🎓 B.Tech CSE (AI) @ Galgotias University  
@@ -22,7 +8,7 @@
 - 🌱 Currently learning **Machine Learning & DSA**  
 - 🎤 Experienced in **Public Speaking & Event Hosting**  
 
----
+
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -37,14 +23,14 @@
 </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,pandas,numpy,sklearn,mysql,git,github,streamlit,jupyter" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 <p align="center">

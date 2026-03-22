@@ -8,7 +8,7 @@
 - 👯 **Open to collaborate on:** ML / AI Projects  
 - 🤝 **Exploring:** Advanced ML Algorithms  
 - 💬 **Ask me about:** Python, Data Analysis, SQL  
-- 📫 **Reach me at:** tanishq.yadav@email.com  
+- 📫 **Reach me at:** somyaawathigmail.com
 - ⚡ **Fun fact:** I love turning data into insights  
 
 

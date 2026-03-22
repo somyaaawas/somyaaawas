@@ -4,13 +4,6 @@
 📍 Greater Noida, Uttar Pradesh, India
 💡 Data Science | Machine Learning | Data Analytics
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Data+Analytics+Explorer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=somyaaawas&label=Profile+Views&color=6A5ACD&style=flat" /> </p>
-💡 About Me
-
-Data Science undergraduate skilled in Python, SQL, and data analysis.
-Experienced in data cleaning, exploratory data analysis (EDA), and visualization to extract insights from real-world datasets.
-Currently focused on machine learning and data structures through projects and coding practice.
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Data+Analytics+Explorer" />

@@ -1,4 +1,4 @@
-<h1>🌸 Hi, I'm Somya Awasthi!<\h1>
+<h1>🌸 Hi, I'm Somya Awasthi!</h1>
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+don%E2%80%99t+chase%2C+I+attract." alt="Typing SVG" /></a>  </h1>
 
 

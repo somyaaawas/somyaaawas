@@ -48,17 +48,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somyaaawas&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somyaaawas&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaaawas&show_icons=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaaawas&show_icons=true&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaawas&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyaaawas&theme=default" />
 </p>
-
 ---
 
 ### ⚡ Fun Code

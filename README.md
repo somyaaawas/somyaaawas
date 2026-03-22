@@ -1,13 +1,32 @@
 🌸 Hi, I'm Somya Awasthi!
 
 
-### 🚀 About Me
-- 🎓 B.Tech CSE (AI) @ Galgotias University  
-- 💡 Passionate about **Data Science & Analytics**  
-- 📊 Skilled in **EDA, Data Visualization & Python-based analysis**  
-- 🌱 Currently learning **Machine Learning & DSA**  
-- 🎤 Experienced in **Public Speaking & Event Hosting**  
+### 🚀 About Me  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Active-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Projects-Collaborating-20C997?style=for-the-badge" />
+</p>
+
+
+<p align="center">
+
+🔭 <b>Currently Working On:</b> Data Science Projects <br><br>
+
+🌱 <b>Learning:</b> Machine Learning & Deep Learning <br><br>
+
+👯 <b>Looking to Collaborate On:</b> ML / AI Projects <br><br>
+
+🤝 <b>Seeking Help In:</b> Advanced ML Algorithms <br><br>
+
+💬 <b>Ask Me About:</b> Python, Data Analysis, SQL <br><br>
+
+📫 <b>Reach Me At:</b> tanishq.yadav@email.com <br><br>
+
+⚡ <b>Fun Fact:</b> I love turning data into insights 🚀  
+
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
